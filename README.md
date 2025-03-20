@@ -19,7 +19,7 @@ This repository contains implementations and lab exercises for **CSA5401 - Compu
   - Malware Analysis (Trojans & Rootkit Detection)
 
 ### 🛠 **Tools & Technologies Used**:
-- **Programming Languages**: Java, JavaScript, HTML
+- **Programming Languages**: Java, JavaScript,Python,HTML
 - **Security Tools**: Snort, N-Stalker, GMER
 - **Development Environment**: Visual Studio Code, Java SDK
 
